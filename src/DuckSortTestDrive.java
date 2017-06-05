@@ -7,12 +7,12 @@ public class DuckSortTestDrive {
 
     public static void main(String[] args) {
         Duck[] ducks = {
-                new Duck("дональд", 8),
-                new Duck("кря", 2),
-                new Duck("корупе", 7),
-                new Duck("ДВШГ ", 2),
-                new Duck("тппвьD", 10),
-                new Duck("ЫывЫЫЫЫЫЫЫЫЫ", 2)
+                new Duck("дональд", 123321),
+                new Duck("кря", 12414),
+                new Duck("корупе", 187557),
+                new Duck("ДВШГ ", 22457542),
+                new Duck("тппвьD", 145645),
+                new Duck("ЫывЫЫЫЫЫЫЫЫЫ", 3464134ё)
         };
 
         System.out.println("До сортировки:");
