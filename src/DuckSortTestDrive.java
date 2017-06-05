@@ -12,7 +12,7 @@ public class DuckSortTestDrive {
                 new Duck("корупе", 187557),
                 new Duck("ДВШГ ", 22457542),
                 new Duck("тппвьD", 145645),
-                new Duck("ЫывЫЫЫЫЫЫЫЫЫ", 3464134ё)
+                new Duck("ЫывЫЫЫЫЫЫЫЫЫ", 3464134)
         };
 
         System.out.println("До сортировки:");
